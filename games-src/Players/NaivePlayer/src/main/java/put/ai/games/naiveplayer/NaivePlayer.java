@@ -12,7 +12,7 @@ package put.ai.games.naiveplayer;
 
 public class NaivePlayer extends Player {
 
-    private Random random = new Random(0xdeadbeef);
+    private Random random = new Random();
 
 
     @Override

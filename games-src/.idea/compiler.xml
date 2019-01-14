@@ -10,12 +10,24 @@
         <module name="BoardGameEngine" />
         <module name="CLI" />
         <module name="GUI" />
+        <module name="maven-archiver (1)" />
+        <module name="maven-archiver (10)" />
+        <module name="maven-archiver (11)" />
+        <module name="maven-archiver (2)" />
+        <module name="maven-archiver (3)" />
+        <module name="maven-archiver (4)" />
+        <module name="maven-archiver (5)" />
+        <module name="maven-archiver (6)" />
+        <module name="maven-archiver (7)" />
+        <module name="maven-archiver (8)" />
+        <module name="maven-archiver (9)" />
         <module name="NaivePlayer" />
         <module name="NastyPlayer" />
         <module name="NullPlayer" />
         <module name="RulesProvider" />
         <module name="Snort" />
         <module name="Tester" />
+        <module name="TheBestPlayer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +36,17 @@
       <module name="CLI" target="1.8" />
       <module name="Games" target="1.8" />
       <module name="GUI" target="1.8" />
+      <module name="maven-archiver (1)" target="1.5" />
+      <module name="maven-archiver (10)" target="1.5" />
+      <module name="maven-archiver (11)" target="1.5" />
+      <module name="maven-archiver (2)" target="1.5" />
+      <module name="maven-archiver (3)" target="1.5" />
+      <module name="maven-archiver (4)" target="1.5" />
+      <module name="maven-archiver (5)" target="1.5" />
+      <module name="maven-archiver (6)" target="1.5" />
+      <module name="maven-archiver (7)" target="1.5" />
+      <module name="maven-archiver (8)" target="1.5" />
+      <module name="maven-archiver (9)" target="1.5" />
       <module name="NaivePlayer" target="1.8" />
       <module name="NastyPlayer" target="1.8" />
       <module name="NullPlayer" target="1.8" />
@@ -32,6 +55,7 @@
       <module name="RulesProvider" target="1.8" />
       <module name="Snort" target="1.8" />
       <module name="Tester" target="1.8" />
+      <module name="TheBestPlayer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

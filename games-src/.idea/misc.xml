@@ -3,11 +3,22 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/CLI/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/GUI/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/Rules/Snort/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/Tester/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/Players/NullPlayer/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/Players/NaivePlayer/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/Players/NastyPlayer/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/Players/TheBestPlayer/target/maven-archiver/pom.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/BoardGame/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/RulesProvider/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/BoardGameEngine/target/maven-archiver/pom.properties" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" project-jdk-name="1.8.0_191" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/classes" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="9.0" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
