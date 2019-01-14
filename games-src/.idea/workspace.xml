@@ -2,55 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3eadc71-0296-4dd9-965a-7e16f48219aa" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BoardGameEngine/target/BoardGameEngine-2.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/BoardGameEngine/target/BoardGameEngine-2.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CLI/target/CLI-2.0-SNAPSHOT-shaded.jar" afterPath="$PROJECT_DIR$/CLI/target/CLI-2.0-SNAPSHOT-shaded.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CLI/target/CLI-2.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/CLI/target/CLI-2.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CLI/target/original-CLI-2.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/CLI/target/original-CLI-2.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GUI/target/GUI-2.0-SNAPSHOT-shaded.jar" afterPath="$PROJECT_DIR$/GUI/target/GUI-2.0-SNAPSHOT-shaded.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GUI/target/GUI-2.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/GUI/target/GUI-2.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GUI/target/original-GUI-2.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/GUI/target/original-GUI-2.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Players/NaivePlayer/target/NaivePlayer-2.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Players/NaivePlayer/target/NaivePlayer-2.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Players/NaivePlayer/target/classes/put/ai/games/naiveplayer/NaivePlayer.class" afterPath="$PROJECT_DIR$/Players/NaivePlayer/target/classes/put/ai/games/naiveplayer/NaivePlayer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Players/NastyPlayer/target/NastyPlayer-2.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Players/NastyPlayer/target/NastyPlayer-2.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Players/NullPlayer/target/NullPlayer-2.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Players/NullPlayer/target/NullPlayer-2.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Players/TheBestPlayer/target/TheBestPlayer-2.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Players/TheBestPlayer/target/TheBestPlayer-2.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Players/TheBestPlayer/target/classes/put/ai/games/thebestplayer/TheBestPlayer.class" afterPath="$PROJECT_DIR$/Players/TheBestPlayer/target/classes/put/ai/games/thebestplayer/TheBestPlayer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rules/Snort/target/Snort-2.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Rules/Snort/target/Snort-2.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RulesProvider/target/RulesProvider-2.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/RulesProvider/target/RulesProvider-2.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tester/target/Tester-2.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Tester/target/Tester-2.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BoardGame/BoardGame.iml" afterPath="$PROJECT_DIR$/BoardGame/BoardGame.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BoardGameEngine/BoardGameEngine.iml" afterPath="$PROJECT_DIR$/BoardGameEngine/BoardGameEngine.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BoardGameEngine/target/surefire-reports/TEST-put.ai.games.engine.impl.MoveValidatorTest.xml" afterPath="$PROJECT_DIR$/BoardGameEngine/target/surefire-reports/TEST-put.ai.games.engine.impl.MoveValidatorTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BoardGameEngine/target/surefire-reports/put.ai.games.engine.impl.MoveValidatorTest.txt" afterPath="$PROJECT_DIR$/BoardGameEngine/target/surefire-reports/put.ai.games.engine.impl.MoveValidatorTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CLI/CLI.iml" afterPath="$PROJECT_DIR$/CLI/CLI.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CLI/target/surefire-reports/TEST-put.ai.games.cli.AppTest.xml" afterPath="$PROJECT_DIR$/CLI/target/surefire-reports/TEST-put.ai.games.cli.AppTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CLI/target/surefire-reports/put.ai.games.cli.AppTest.txt" afterPath="$PROJECT_DIR$/CLI/target/surefire-reports/put.ai.games.cli.AppTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GUI/GUI.iml" afterPath="$PROJECT_DIR$/GUI/GUI.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Games.iml" afterPath="$PROJECT_DIR$/Games.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Players/NaivePlayer/NaivePlayer.iml" afterPath="$PROJECT_DIR$/Players/NaivePlayer/NaivePlayer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Players/NaivePlayer/pom.xml" afterPath="$PROJECT_DIR$/Players/NaivePlayer/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Players/NaivePlayer/src/main/java/put/ai/games/naiveplayer/NaivePlayer.java" afterPath="$PROJECT_DIR$/Players/NaivePlayer/src/main/java/put/ai/games/naiveplayer/NaivePlayer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Players/NastyPlayer/NastyPlayer.iml" afterPath="$PROJECT_DIR$/Players/NastyPlayer/NastyPlayer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Players/NullPlayer/NullPlayer.iml" afterPath="$PROJECT_DIR$/Players/NullPlayer/NullPlayer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Players/Players.iml" afterPath="$PROJECT_DIR$/Players/Players.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Players/TheBestPlayer/TheBestPlayer.iml" afterPath="$PROJECT_DIR$/Players/TheBestPlayer/TheBestPlayer.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Players/TheBestPlayer/src/main/java/put/ai/games/thebestplayer/TheBestPlayer.java" afterPath="$PROJECT_DIR$/Players/TheBestPlayer/src/main/java/put/ai/games/thebestplayer/TheBestPlayer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rules/Rules.iml" afterPath="$PROJECT_DIR$/Rules/Rules.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rules/Snort/Snort.iml" afterPath="$PROJECT_DIR$/Rules/Snort/Snort.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rules/Snort/target/surefire-reports/TEST-put.ai.games.snort.impl.BoardTest.xml" afterPath="$PROJECT_DIR$/Rules/Snort/target/surefire-reports/TEST-put.ai.games.snort.impl.BoardTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rules/Snort/target/surefire-reports/TEST-put.ai.games.snort.impl.GameEngineImplTest.xml" afterPath="$PROJECT_DIR$/Rules/Snort/target/surefire-reports/TEST-put.ai.games.snort.impl.GameEngineImplTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rules/Snort/target/surefire-reports/put.ai.games.snort.impl.BoardTest.txt" afterPath="$PROJECT_DIR$/Rules/Snort/target/surefire-reports/put.ai.games.snort.impl.BoardTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rules/Snort/target/surefire-reports/put.ai.games.snort.impl.GameEngineImplTest.txt" afterPath="$PROJECT_DIR$/Rules/Snort/target/surefire-reports/put.ai.games.snort.impl.GameEngineImplTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RulesProvider/RulesProvider.iml" afterPath="$PROJECT_DIR$/RulesProvider/RulesProvider.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tester/Tester.iml" afterPath="$PROJECT_DIR$/Tester/Tester.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tester/target/surefire-reports/TEST-put.ai.games.tester.TesterTest.xml" afterPath="$PROJECT_DIR$/Tester/target/surefire-reports/TEST-put.ai.games.tester.TesterTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tester/target/surefire-reports/put.ai.games.tester.TesterTest.txt" afterPath="$PROJECT_DIR$/Tester/target/surefire-reports/put.ai.games.tester.TesterTest.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/Players/target/" />
     <ignored path="$PROJECT_DIR$/GUI/target/" />
@@ -130,18 +83,16 @@
       <file leaf-file-name="TheBestPlayer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Players/TheBestPlayer/src/main/java/put/ai/games/thebestplayer/TheBestPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state relative-caret-position="166">
+              <caret line="194" column="13" lean-forward="true" selection-start-line="194" selection-start-column="13" selection-end-line="194" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#659#660#0" expanded="true" />
-                <element signature="e#698#699#0" expanded="true" />
-                <element signature="e#746#747#0" expanded="true" />
-                <element signature="e#800#801#0" expanded="true" />
-                <element signature="e#3662#3663#0" expanded="true" />
-                <element signature="e#3730#3731#0" expanded="true" />
-                <marker date="1547482352747" expanded="false" signature="3842:3857" ph=" { " />
-                <marker date="1547482352747" expanded="false" signature="3878:3888" ph=" }" />
+                <element signature="e#2304#2305#0" expanded="true" />
+                <element signature="e#2358#2359#0" expanded="true" />
+                <element signature="e#5293#5294#0" expanded="true" />
+                <element signature="e#5361#5362#0" expanded="true" />
+                <marker date="1547489381603" expanded="false" signature="5473:5488" ph=" { " />
+                <marker date="1547489381603" expanded="false" signature="5509:5519" ph=" }" />
               </folding>
             </state>
           </provider>
@@ -414,12 +365,20 @@
       <workItem from="1546620335319" duration="11255000" />
       <workItem from="1546708800072" duration="3168000" />
       <workItem from="1546868481698" duration="2555000" />
-      <workItem from="1547471932603" duration="10416000" />
+      <workItem from="1547471932603" duration="16104000" />
     </task>
+    <task id="LOCAL-00001" summary="Alfa beta, jakos dziala">
+      <created>1547482388179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547482388180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32353000" />
+    <option name="totallyTimeSpent" value="38041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -432,9 +391,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.225" sideWeight="0.4003198" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="856" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.096481875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.096481875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.225" sideWeight="0.5996802" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.225" sideWeight="0.5996802" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.4914712" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -459,6 +418,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Alfa beta, jakos dziala" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alfa beta, jakos dziala" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -515,14 +478,12 @@
           <caret line="68" column="87" lean-forward="true" selection-start-line="68" selection-start-column="87" selection-end-line="68" selection-end-column="87" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#3662#3663#0" expanded="true" />
-            <element signature="e#3730#3731#0" expanded="true" />
-            <marker date="1547482352747" expanded="false" signature="3842:3857" ph=" { " />
-            <marker date="1547482352747" expanded="false" signature="3878:3888" ph=" }" />
+            <element signature="e#2304#2305#0" expanded="true" />
+            <element signature="e#2358#2359#0" expanded="true" />
+            <element signature="e#5293#5294#0" expanded="true" />
+            <element signature="e#5361#5362#0" expanded="true" />
+            <marker date="1547489381603" expanded="false" signature="5473:5488" ph=" { " />
+            <marker date="1547489381603" expanded="false" signature="5509:5519" ph=" }" />
           </folding>
         </state>
       </provider>
@@ -575,14 +536,12 @@
           <caret line="148" column="52" lean-forward="false" selection-start-line="148" selection-start-column="52" selection-end-line="148" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#3662#3663#0" expanded="true" />
-            <element signature="e#3730#3731#0" expanded="true" />
-            <marker date="1547482352747" expanded="false" signature="3842:3857" ph=" { " />
-            <marker date="1547482352747" expanded="false" signature="3878:3888" ph=" }" />
+            <element signature="e#2304#2305#0" expanded="true" />
+            <element signature="e#2358#2359#0" expanded="true" />
+            <element signature="e#5293#5294#0" expanded="true" />
+            <element signature="e#5361#5362#0" expanded="true" />
+            <marker date="1547489381603" expanded="false" signature="5473:5488" ph=" { " />
+            <marker date="1547489381603" expanded="false" signature="5509:5519" ph=" }" />
           </folding>
         </state>
       </provider>
@@ -635,14 +594,12 @@
           <caret line="59" column="42" lean-forward="false" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#3662#3663#0" expanded="true" />
-            <element signature="e#3730#3731#0" expanded="true" />
-            <marker date="1547482352747" expanded="false" signature="3842:3857" ph=" { " />
-            <marker date="1547482352747" expanded="false" signature="3878:3888" ph=" }" />
+            <element signature="e#2304#2305#0" expanded="true" />
+            <element signature="e#2358#2359#0" expanded="true" />
+            <element signature="e#5293#5294#0" expanded="true" />
+            <element signature="e#5361#5362#0" expanded="true" />
+            <marker date="1547489381603" expanded="false" signature="5473:5488" ph=" { " />
+            <marker date="1547489381603" expanded="false" signature="5509:5519" ph=" }" />
           </folding>
         </state>
       </provider>
@@ -695,14 +652,12 @@
           <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#3662#3663#0" expanded="true" />
-            <element signature="e#3730#3731#0" expanded="true" />
-            <marker date="1547482352747" expanded="false" signature="3842:3857" ph=" { " />
-            <marker date="1547482352747" expanded="false" signature="3878:3888" ph=" }" />
+            <element signature="e#2304#2305#0" expanded="true" />
+            <element signature="e#2358#2359#0" expanded="true" />
+            <element signature="e#5293#5294#0" expanded="true" />
+            <element signature="e#5361#5362#0" expanded="true" />
+            <marker date="1547489381603" expanded="false" signature="5473:5488" ph=" { " />
+            <marker date="1547489381603" expanded="false" signature="5509:5519" ph=" }" />
           </folding>
         </state>
       </provider>
@@ -815,18 +770,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Players/TheBestPlayer/src/main/java/put/ai/games/thebestplayer/TheBestPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        <state relative-caret-position="166">
+          <caret line="194" column="13" lean-forward="true" selection-start-line="194" selection-start-column="13" selection-end-line="194" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#3662#3663#0" expanded="true" />
-            <element signature="e#3730#3731#0" expanded="true" />
-            <marker date="1547482352747" expanded="false" signature="3842:3857" ph=" { " />
-            <marker date="1547482352747" expanded="false" signature="3878:3888" ph=" }" />
+            <element signature="e#2304#2305#0" expanded="true" />
+            <element signature="e#2358#2359#0" expanded="true" />
+            <element signature="e#5293#5294#0" expanded="true" />
+            <element signature="e#5361#5362#0" expanded="true" />
+            <marker date="1547489381603" expanded="false" signature="5473:5488" ph=" { " />
+            <marker date="1547489381603" expanded="false" signature="5509:5519" ph=" }" />
           </folding>
         </state>
       </provider>
